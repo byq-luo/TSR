@@ -32,5 +32,6 @@ tensorboard可视化： tensorboard --logdir mc_data2_logs/
 多通道分类识别算法训练验证data3：  python mc_data3.py
 tensorboard可视化： tensorboard --logdir mc_data3_logs/
 
+训练存储模型：mc_weights2.hdf5
 结果显示：     文件夹 train_test_result 中
 
