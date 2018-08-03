@@ -36,7 +36,7 @@ def Conv2d_BN(x, nb_filter,kernel_size, padding='same',strides=(1,1),name=None):
 
 #(x_train, y_train), (x_test, y_test) = cifar10.load_data()
 
-download_path ='/home/maxianqin/file/zxfile/jiaotong'
+download_path ='/home/gpu4/zxfile/TSR'
 train_path=download_path+'/train'
 test_path=download_path+'/data3'
 
