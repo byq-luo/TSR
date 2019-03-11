@@ -35,5 +35,3 @@ tensorboard可视化： tensorboard --logdir mc_data3_logs/
 训练存储模型：   mc_weights2.hdf5
 结果显示：     文件夹 train_test_result 中
 
-作者联系方式：   2510294685@qq.com
-                zhangxue_bj@Outlook.com
